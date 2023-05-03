@@ -4,7 +4,7 @@ They will be tested against the "Adult" Dataset (also known as the "Census Incom
 
 Planned Models to implement:
     
-    [] Linear Perceptron
+    [✓] Linear Perceptron
     [] Decision Trees
     [] Random Forest
     [] Neural Network
